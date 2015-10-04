@@ -1,0 +1,89 @@
+h1
+{
+	font-weight: bolder;
+    font-family:Arial;
+}
+h2 {
+    font-weight: bolder;
+    font-family: Arial;
+}
+h3 {
+    font-weight: bolder;
+    font-family: Arial;
+}
+#AboutMe
+{
+	font-style: italic;
+}
+.thinline
+{
+	border-width: 1px;
+    color:black;
+}
+.thickline
+{
+	border-width: 3px;
+	border-top: 3px solid black;
+}
+header
+{
+	text-align: center;
+}
+img
+{
+    width: 400px;
+    height:250px;
+    position: relative;
+    right: 0px;
+    top: 0px;
+}
+footer
+{
+    align-content:center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight:bold;
+}
+
+.para
+{
+    font-size:18px;
+}
+
+#divImage{
+    height: 200px;
+}
+ul {
+    list-style-type: square;
+    font-size:18px;
+}
+.headerNav {
+    font-size: 16px;
+    font-family: Arial;
+    color: black;
+}
+.footerNav
+{
+    font-family:Arial;
+}
+.imgportfolio {
+    width: 600px;
+    height: 450px;
+    margin-left: 100px;
+    margin-right: auto;
+    padding: 5px;
+    border: 1px solid #000;
+}
+.imgAboutMe
+{
+    padding: 5px;
+    border: 1px solid #000;
+}
+.listp {
+    padding: 0 23px;
+    font-size:18px;
+}
+.portbody{
+    background-color:#EBEBEB;
+}
